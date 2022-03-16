@@ -1,0 +1,29 @@
+>>>Machine Learning
+
+1) Linear Regression
+
+2) Logistic Regression
+
+3) Decision Tree
+
+4) SVM Algorithm
+
+5) Naive Bayes Algorithm
+
+6) KNN Algorithm
+
+7) K-Means
+
+8) Random Forest Algorithm
+
+9) Dimensionality Reduction Algorithm
+
+10) Gradient Bosting Algorithm & AdaBoosting Algorithm
+
+11) Learning Vector Quantization
+
+12) Apriori
+
+13) PCA
+
+14) Bagging
