@@ -16,12 +16,10 @@
 
 8) Random Forest Algorithm
 
-10) Gradient Bosting Algorithm & AdaBoosting Algorithm
+9) Gradient Bosting Algorithm & AdaBoosting Algorithm
 
-11) Learning Vector Quantization
+10) Apriori
 
-12) Apriori
+11) PCA
 
-13) PCA
-
-14) Bagging
+12) Bagging
