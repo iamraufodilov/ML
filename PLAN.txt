@@ -18,8 +18,6 @@
 
 9) Gradient Bosting Algorithm & AdaBoosting Algorithm
 
-10) Apriori
+11) Bagging
 
-11) PCA
-
-12) Bagging
+12) PCA
