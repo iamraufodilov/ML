@@ -23,6 +23,14 @@ X = data.drop(columns='color')
 X = X.iloc[:,:].values
 print(X, y)
 
+# visualize dataset
+mean_X = list(np.mean(a) for a in X)
+plt.scatter(mean_X, y)
+plt.xlabel("X data")
+plt.ylabel("y data")
+plt.title("Our data visualization")
+plt.show()
+
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.2, random_state=1)
 
 
