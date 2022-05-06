@@ -16,8 +16,6 @@
 
 8) Random Forest Algorithm
 
-9) Dimensionality Reduction Algorithm
-
 10) Gradient Bosting Algorithm & AdaBoosting Algorithm
 
 11) Learning Vector Quantization
